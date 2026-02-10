@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/j-j-connington/the-case-with-nine-solutions</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-02-10T20:12:15Z</dc:date>
+		<meta property="dcterms:modified">2026-02-10T20:12:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,18 +44,19 @@
 		<meta id="collection-1" property="belongs-to-collection">Sir Clinton Driffield</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description">Two bodies in two locations central to the case have nine possible permutations for cause of death between accident, suicide, and murder.</dc:description>
+		<dc:description id="description">A police constable investigates two murders in which the solutions have a dizzying number of possible permutations.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;On a foggy night a doctor temporarily filling in for another accidentally goes to the wrong house and finds a dying man who had been shot. He decides to call &lt;a href="https://standardebooks.org/collections/sir-clinton-driffield"&gt;Chief Constable Sir Clinton Driffield’s&lt;/a&gt;, because of his recent visit to examine Driffield’s ill butler. Going next door to the correct house, he telephones Driffield and interrogates the maid regarding prior events that evening. Further murders are discovered as the case unfolds. The police investigation is augmented with advertisements in the local paper that are in secret code, a blackmailing witness, and possibly fabricated evidence received from an anonymous source. The woman central to the case was drugged and three main characters are chemists.&lt;/p&gt;
-			&lt;p&gt;The Case with Nine Solutions is the fourth in a series of detective novels by &lt;a href="https://standardebooks.org/ebooks/j-j-connington"&gt;J. J. Connington&lt;/a&gt; that feature Sir Clinton Driffield. It was first published in Britain in 1928. The technical science in this case, clearly explained, has its foundation in the author’s background as a research chemist.&lt;/p&gt;
+			&lt;p&gt;On a foggy night a doctor accidentally visits the wrong house and finds a man dying of a gunshot wound. He quickly calls &lt;a href="https://standardebooks.org/collections/sir-clinton-driffield"&gt;Chief Constable Sir Clinton Driffield&lt;/a&gt; for help, and further murders are discovered as the case unfolds. The mystery deepens when advertisements in a secret code appear in the local paper, a witness is blackmailed, and possibly fabricated evidence comes in from an anonymous source. Then, a woman central to the case is drugged—and three of the main characters are chemists. The number of possible solutions to the case soon spirals into an ever-increasing number.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Case with Nine Solutions&lt;/i&gt; was first published in Britain in 1928. The technical science in this case, clearly explained, has its foundation in &lt;a href="https://standardebooks.org/ebooks/j-j-connington"&gt;J. J. Connington’s&lt;/a&gt; background as a research chemist.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!--Transcription-->
 		<dc:source>https://www.gutenberg.org/ebooks/72816</dc:source>
 		<!--HathiTrust scans-->
 		<dc:source>https://catalog.hathitrust.org/Record/103099151</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta propert="se:production-notes">VEN is left capitalized because it's the broken end of a postmark for `[Westerha]VEN`. It is not an abbreviation.</meta>
+		<meta property="se:word-count">74488</meta>
+		<meta property="se:reading-ease.flesch">75.2</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Case_with_Nine_Solutions</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-j-connington_the-case-with-nine-solutions</meta>
 		<dc:creator id="author">J. J. Connington</dc:creator>
@@ -79,6 +80,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
