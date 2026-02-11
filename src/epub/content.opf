@@ -54,7 +54,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/72816</dc:source>
 		<!--HathiTrust scans-->
 		<dc:source>https://catalog.hathitrust.org/Record/103099151</dc:source>
-		<meta propert="se:production-notes">VEN is left capitalized because it's the broken end of a postmark for `[Westerha]VEN`. It is not an abbreviation.</meta>
+		<meta property="se:production-notes">VEN is left capitalized because it's the broken end of a postmark for `[Westerha]VEN`. It is not an abbreviation.</meta>
 		<meta property="se:word-count">74488</meta>
 		<meta property="se:reading-ease.flesch">75.2</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Case_with_Nine_Solutions</meta>
