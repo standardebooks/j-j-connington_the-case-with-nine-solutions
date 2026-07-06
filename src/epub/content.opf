@@ -58,7 +58,7 @@
 		<meta property="schema:wordCount">74488</meta>
 		<meta property="schema:educationalLevel">75.2</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Case_with_Nine_Solutions" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/j-j-connington_the-case-with-nine-solutions" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">J. J. Connington</dc:creator>
