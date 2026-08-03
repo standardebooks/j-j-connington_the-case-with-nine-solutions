@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/j-j-connington/the-case-with-nine-solutions</dc:identifier>
 		<dc:date>2026-02-10T20:12:15Z</dc:date>
@@ -45,11 +45,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Sir Clinton Driffield</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:description id="description">A police constable investigates two murders in which the solutions have a dizzying number of possible permutations.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A police constable investigates two murders in which the solutions have a dizzying number of possible permutations.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;On a foggy night a doctor accidentally visits the wrong house and finds a man dying of a gunshot wound. He quickly calls &lt;a href="https://standardebooks.org/collections/sir-clinton-driffield"&gt;Chief Constable Sir Clinton Driffield&lt;/a&gt; for help, and further murders are discovered as the case unfolds. The mystery deepens when advertisements in a secret code appear in the local paper, a witness is blackmailed, and possibly fabricated evidence comes in from an anonymous source. Then, a woman central to the case is drugged—and three of the main characters are chemists. The number of possible solutions to the case soon spirals into an ever-increasing number.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Case with Nine Solutions&lt;/i&gt; was first published in Britain in 1928. The technical science in this case, clearly explained, has its foundation in &lt;a href="https://standardebooks.org/ebooks/j-j-connington"&gt;J. J. Connington’s&lt;/a&gt; background as a research chemist.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<!--Transcription-->
 		<dc:source>https://www.gutenberg.org/ebooks/72816</dc:source>
