@@ -45,7 +45,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Sir Clinton Driffield</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">4</meta>
-		<dc:abstract>A police constable investigates two murders in which the solutions have a dizzying number of possible permutations.</dc:abstract>
+		<meta property="schema:abstract">A police constable investigates two murders in which the solutions have a dizzying number of possible permutations.</meta>
 		<dc:description>
 			&lt;p&gt;On a foggy night a doctor accidentally visits the wrong house and finds a man dying of a gunshot wound. He quickly calls &lt;a href="https://standardebooks.org/collections/sir-clinton-driffield"&gt;Chief Constable Sir Clinton Driffield&lt;/a&gt; for help, and further murders are discovered as the case unfolds. The mystery deepens when advertisements in a secret code appear in the local paper, a witness is blackmailed, and possibly fabricated evidence comes in from an anonymous source. Then, a woman central to the case is drugged—and three of the main characters are chemists. The number of possible solutions to the case soon spirals into an ever-increasing number.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Case with Nine Solutions&lt;/i&gt; was first published in Britain in 1928. The technical science in this case, clearly explained, has its foundation in &lt;a href="https://standardebooks.org/ebooks/j-j-connington"&gt;J. J. Connington’s&lt;/a&gt; background as a research chemist.&lt;/p&gt;
